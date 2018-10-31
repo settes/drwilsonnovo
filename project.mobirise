@@ -89,7 +89,7 @@
             },
             "& when (@bg-type = 'image')": {
               "background-image": "url(@bg-value)",
-              "background-position": "68%"
+              "background-position": "72%"
             },
             ".media-content .btn-bgr": {
               "z-index": "0"

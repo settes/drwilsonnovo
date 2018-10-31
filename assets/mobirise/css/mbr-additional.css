@@ -950,6 +950,8 @@ body {
   padding-top: 40px;
   padding-bottom: 0px;
   background-image: url("../../../assets/images/background-lp-drwilson-2000x901.jpg");
+  background-attachment: scroll;
+  background-position: 10%;
 }
 .cid-qNIBUbBXm9 .media-content .btn-bgr {
   z-index: 0;
@@ -962,10 +964,9 @@ body {
 }
 @media (min-width: 992px) {
   .cid-qNIBUbBXm9 .mbr-figure {
-    padding-left: 1rem;
     padding-top: 3rem;
     padding-bottom: 0rem;
-    padding-right: 7rem;
+    padding-right: 9rem;
     padding-left: 0rem;
   }
 }
@@ -976,7 +977,7 @@ body {
 }
 @media (max-width: 767px) {
   .cid-qNIBUbBXm9 .mbr-text {
-    text-align: right;
+    text-align: center;
   }
 }
 .cid-qNIBUbBXm9 .media-container-row {
